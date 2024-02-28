@@ -43,7 +43,7 @@ namespace WindowsFormsApp1
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            
+
             /*
             Debug.WriteLine("Timer");
 
@@ -81,29 +81,37 @@ namespace WindowsFormsApp1
             */
 
 
+            var g = this.CreateGraphics();
 
+
+            
             var gb = Graphics.FromImage(bmp);
+            var gb2 = Graphics.FromImage(bmp);
             gb.FillRectangle(SystemBrushes.Control, 0, 0, Width, Height);
-            gb.DrawEllipse(Pens.Blue, 200+X, 200+Y, r, r);
+            Rectangle rect = new Rectangle(400, 100, 200, 150);
+            gb.FillRectangle(new SolidBrush(Color.PowderBlue), rect);
+            gb.FillEllipse(new SolidBrush(Color.RosyBrown), 50, 350, 250, 180);
+
+            gb2.DrawEllipse(Pens.Blue, 200+X, 200+Y, r, r);
             oldX = X;
             X += k_X * 1;
             Y += k_Y * 1;
 
-            var g = this.CreateGraphics();
+           
             g.DrawImage(bmp, 0, 0);
-
             
-            var w = ClientRectangle.Height;
-            var wl = Height;
+
+            var w = ClientRectangle.Width;
+            var h = ClientRectangle.Height;
+
            
 
-            
-            if (X== -200 || X==Width-200-2*r)
+            if (X== -200 || X == w-200-r)
             {
                 k_X *= -1;
 
             }
-            if (Y == -200 || Y == Height -200 - 2*r)
+            if (Y == -200 || Y == h -200 - r)
             {
                 k_Y *= -1;
 
