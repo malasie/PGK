@@ -35,11 +35,13 @@ namespace WindowsFormsApp1
         int oldX = 0;
         bool P = true;
         Bitmap bmp;
-        
+
         int Y=0;
         int k_X = 1;
         int k_Y = 1;
         int r = 50;
+        int pr_X = 1;
+        int pr_Y = 1;
 
         private void timer1_Tick(object sender, EventArgs e)
         {
@@ -94,8 +96,8 @@ namespace WindowsFormsApp1
 
             gb2.DrawEllipse(Pens.Blue, 200+X, 200+Y, r, r);
             oldX = X;
-            X += k_X * 1;
-            Y += k_Y * 1;
+            X += k_X * pr_X;
+            Y += k_Y * pr_Y;
 
            
             g.DrawImage(bmp, 0, 0);
@@ -106,18 +108,18 @@ namespace WindowsFormsApp1
 
            
 
-            if (X== -200 || X == w-200-r)
+            if (X <= -200 || X >= w-200-r)
             {
                 k_X *= -1;
 
             }
-            if (Y == -200 || Y == h -200 - r)
+            if (Y <= -200 || Y >= h -200 - r)
             {
                 k_Y *= -1;
 
             }
 
-            Debug.WriteLine(X + " " + Y);
+            // Debug.WriteLine(X + " " + Y);
 
 
         }
@@ -138,5 +140,46 @@ namespace WindowsFormsApp1
         {
             bmp = new Bitmap(Width, Height);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            Debug.WriteLine($"{e.KeyValue} {e.KeyCode}");
+            
+            
+        }
+
+        private void Form1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            Debug.WriteLine($"{e.KeyChar} {e.KeyChar}");
+        }
+
+        private void Form1_KeyUp(object sender, KeyEventArgs e)
+        {
+            Debug.WriteLine($"{e.KeyValue} {e.KeyCode}");
+            if (e.KeyCode == Keys.Down & pr_Y>0)
+            {
+                pr_Y -= 1;
+            }
+            if (e.KeyCode == Keys.Up & pr_Y<5)
+            {
+                pr_Y += 1;
+            }
+
+            if (e.KeyCode == Keys.Left & pr_X > 0)
+            {
+                pr_X -= 1;
+            }
+            if (e.KeyCode == Keys.Right & pr_X < 5)
+            {
+                pr_X += 1;
+            }
+        }
+
+        
     }
 }
