@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|d:\\maria\\studia\\gigk\\sem2\\pgk\\zad2\\zad2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|solutionrelative:zad2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|d:\\maria\\studia\\gigk\\sem2\\pgk\\zad2\\zad2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|solutionrelative:zad2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|d:\\maria\\studia\\gigk\\sem2\\pgk\\zad2\\zad2\\algy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|solutionrelative:zad2\\algy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|d:\\maria\\studia\\gigk\\sem2\\pgk\\zad2\\zad2\\algx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|solutionrelative:zad2\\algx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|d:\\maria\\studia\\gigk\\sem2\\pgk\\zad2\\zad2\\ialg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|solutionrelative:zad2\\ialg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|d:\\maria\\studia\\gigk\\sem2\\pgk\\zad2\\zad2\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|solutionrelative:zad2\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|d:\\maria\\studia\\gigk\\sem2\\pgk\\zad2\\zad2\\simulationbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BB9FF6-3498-491F-9FEF-BB7A7298688E}|Zad2\\Zad2.csproj|solutionrelative:zad2\\simulationbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlgY.cs",
+              "DocumentMoniker": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\AlgY.cs",
+              "RelativeDocumentMoniker": "Zad2\\AlgY.cs",
+              "ToolTip": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\AlgY.cs",
+              "RelativeToolTip": "Zad2\\AlgY.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:44:21.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlgX.cs",
+              "DocumentMoniker": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\AlgX.cs",
+              "RelativeDocumentMoniker": "Zad2\\AlgX.cs",
+              "ToolTip": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\AlgX.cs",
+              "RelativeToolTip": "Zad2\\AlgX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:25:36.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAlg.cs",
+              "DocumentMoniker": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\IAlg.cs",
+              "RelativeDocumentMoniker": "Zad2\\IAlg.cs",
+              "ToolTip": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\IAlg.cs",
+              "RelativeToolTip": "Zad2\\IAlg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:23:53.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\Ball.cs",
+              "RelativeDocumentMoniker": "Zad2\\Ball.cs",
+              "ToolTip": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\Ball.cs",
+              "RelativeToolTip": "Zad2\\Ball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:37:57.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimulationBox.cs",
+              "DocumentMoniker": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\SimulationBox.cs",
+              "RelativeDocumentMoniker": "Zad2\\SimulationBox.cs",
+              "ToolTip": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\SimulationBox.cs",
+              "RelativeToolTip": "Zad2\\SimulationBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:38:20.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\Form1.cs",
+              "RelativeDocumentMoniker": "Zad2\\Form1.cs",
+              "ToolTip": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\Form1.cs",
+              "RelativeToolTip": "Zad2\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:36:21.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\Form1.cs",
+              "RelativeDocumentMoniker": "Zad2\\Form1.cs",
+              "ToolTip": "D:\\Maria\\studia\\GiGK\\sem2\\PGK\\Zad2\\Zad2\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Zad2\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:32:36.778Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

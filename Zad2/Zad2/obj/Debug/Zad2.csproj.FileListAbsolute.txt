@@ -1,0 +1,10 @@
+D:\Maria\studia\GiGK\sem2\PGK\Zad2\Zad2\bin\Debug\Zad2.exe.config
+D:\Maria\studia\GiGK\sem2\PGK\Zad2\Zad2\bin\Debug\Zad2.exe
+D:\Maria\studia\GiGK\sem2\PGK\Zad2\Zad2\bin\Debug\Zad2.pdb
+D:\Maria\studia\GiGK\sem2\PGK\Zad2\Zad2\obj\Debug\Zad2.csproj.AssemblyReference.cache
+D:\Maria\studia\GiGK\sem2\PGK\Zad2\Zad2\obj\Debug\Zad2.Form1.resources
+D:\Maria\studia\GiGK\sem2\PGK\Zad2\Zad2\obj\Debug\Zad2.Properties.Resources.resources
+D:\Maria\studia\GiGK\sem2\PGK\Zad2\Zad2\obj\Debug\Zad2.csproj.GenerateResource.cache
+D:\Maria\studia\GiGK\sem2\PGK\Zad2\Zad2\obj\Debug\Zad2.csproj.CoreCompileInputs.cache
+D:\Maria\studia\GiGK\sem2\PGK\Zad2\Zad2\obj\Debug\Zad2.exe
+D:\Maria\studia\GiGK\sem2\PGK\Zad2\Zad2\obj\Debug\Zad2.pdb
