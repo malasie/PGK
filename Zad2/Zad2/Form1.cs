@@ -6,6 +6,8 @@ namespace Zad2
 {
     public partial class Form1 : Form
     {
+        Bitmap bitmap;
+        Image image1 = Image.FromFile("duszek.png");
         SimulationBox sb = new SimulationBox(new AlgX(), new AlgY()) { Width = 200, Height = 200 };
         public Form1()
         {
@@ -38,6 +40,8 @@ namespace Zad2
             {
                 e.Graphics.DrawEllipse(Pens.DarkBlue, b.X - b.R, b.Y - b.R, 2 * b.R, 2 * b.R);
             }
+
+            e.Graphics.DrawImage(image1, 0, 0);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -49,6 +53,18 @@ namespace Zad2
         {
             sb.nextStep();
             Invalidate();
+
+            int i=0;
+            using (var g = CreateGraphics())
+            {
+                g.DrawImage(bitmap,
+                    new Rectangle(0, 0, 300, 300),
+                    new Rectangle(i * 300, 0, 300, 300),
+                    GraphicsUnit.Pixel
+                    ); ;
+                i++;
+                if (i >= 4) i = 0;
+            }
         }
     }
 }
