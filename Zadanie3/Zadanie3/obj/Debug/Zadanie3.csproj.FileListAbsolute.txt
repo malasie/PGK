@@ -1,0 +1,10 @@
+D:\Maria\studia\GiGK\sem2\PGK\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe.config
+D:\Maria\studia\GiGK\sem2\PGK\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe
+D:\Maria\studia\GiGK\sem2\PGK\Zadanie3\Zadanie3\bin\Debug\Zadanie3.pdb
+D:\Maria\studia\GiGK\sem2\PGK\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.AssemblyReference.cache
+D:\Maria\studia\GiGK\sem2\PGK\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+D:\Maria\studia\GiGK\sem2\PGK\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.cache
+D:\Maria\studia\GiGK\sem2\PGK\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+D:\Maria\studia\GiGK\sem2\PGK\Zadanie3\Zadanie3\obj\Debug\Zadanie3.exe
+D:\Maria\studia\GiGK\sem2\PGK\Zadanie3\Zadanie3\obj\Debug\Zadanie3.pdb
+D:\Maria\studia\GiGK\sem2\PGK\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Form1.resources

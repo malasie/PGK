@@ -1,0 +1,16 @@
+﻿Kulki:
+- Pozycja X, Pozycja Y (jako wektor?)
+- Masa
+- Promień
+- Predkosc X, Predkosc Y (wektor?)
+
+Odbicia:
+- zmiana kierunku kulka dotknie krawędzi
+
+Zderzenia:
+- sprawdzenie czy dwie kulki się zderzyły
+- zderzenie naiwne = zmiana kierunku
+- zderzenie fizyczne = masa, predkosc
+
+Pudelko :
+-Po co?
