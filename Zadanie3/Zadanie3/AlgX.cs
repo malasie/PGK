@@ -10,9 +10,9 @@ namespace Zadanie3
             {
                 ball.X = ball.Vx + ball.X;
                 
-                if (ball.X - ball.R <= 0)
+                if (ball.X - ball.R <= 10)
                 {
-                    ball.X = ball.R;
+                    ball.X = ball.R + 10;
                     ball.Vx*=-1;
                 }
                 else if (ball.X + ball.R >= Width)

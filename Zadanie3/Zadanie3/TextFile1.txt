@@ -5,12 +5,9 @@
 - Predkosc X, Predkosc Y (wektor?)
 
 Odbicia:
-- zmiana kierunku kulka dotknie krawędzi
+- zmiana kierunku kulka dotyknie krawędzi
 
 Zderzenia:
 - sprawdzenie czy dwie kulki się zderzyły
 - zderzenie naiwne = zmiana kierunku
 - zderzenie fizyczne = masa, predkosc
-
-Pudelko :
--Po co?

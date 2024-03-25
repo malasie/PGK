@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Zadanie3
 {
-    internal class Collision
+    internal interface ICollision
     {
-        public int ball_1 { get; set; }
-        public int ball_2 { get; set; }
+        void CollAlg(List<Ball> balls, List<Collision> collist);
     }
 }

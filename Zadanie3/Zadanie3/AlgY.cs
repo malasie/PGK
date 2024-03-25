@@ -10,9 +10,9 @@ namespace Zadanie3
             {
                 ball.Y = ball.Vy + ball.Y;
 
-                if (ball.Y - ball.R  <= 0)
+                if (ball.Y - ball.R  <= 10)
                 {
-                    ball.Y = ball.R;
+                    ball.Y = ball.R+10;
                     ball.Vy *= -1;
                 }
                 else if (ball.Y + ball.R >= Height)
