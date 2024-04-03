@@ -8,16 +8,25 @@ namespace Zadanie3
         {
             foreach (Ball ball in balls)
             {
+                
                 ball.X = ball.Vx + ball.X;
                 
                 if (ball.X - ball.R <= 10)
                 {
                     ball.X = ball.R + 10;
+                    if (ball.Vx < -5)
+                    {
+                        ball.Vx = ball.Vx + (float)0.1;
+                    }
                     ball.Vx*=-1;
                 }
                 else if (ball.X + ball.R >= Width)
                 {
                     ball.X = Width - ball.R;
+                    if (ball.Vx > 5)
+                    {
+                        ball.Vx = ball.Vx - (float)0.1;
+                    }
                     ball.Vx *= -1;
                 }
             }

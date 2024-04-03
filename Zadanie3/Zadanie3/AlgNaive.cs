@@ -60,8 +60,8 @@ namespace Zadanie3
                         ball_2.Y += ball_2.Vy / 2;
                         */
                     }
-                    else if (collist.Any() && collist.Contains(coll))
-                     {
+                    else if (dist >= ball_1.R + ball_2.R && collist.Any() && collist.Contains(coll))
+                    {
                         collist.Remove(coll); 
 
                      }

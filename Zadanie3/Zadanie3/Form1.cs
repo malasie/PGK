@@ -47,13 +47,13 @@ namespace Zadanie3
                         Vx = r.Next(0, 4),
                         Vy = r.Next(0, 4),
                         R = R,
-                        M = r.Next(1,3)/2
+                        M = (float) r.Next(1,4)/3
                     });;;
  
                 }
                 foreach (Ball ball in sb.Balls)
                 {
-                    Debug.WriteLine($"{ball.id}");
+                    Debug.WriteLine($"{ball.M}");
                 }
             }
         }
