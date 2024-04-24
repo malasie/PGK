@@ -1,0 +1,5 @@
+﻿  Test.cpp
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie4\Test\Test.cpp(63,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie4\Test\Test.cpp(64,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie4\Test\Test.cpp(65,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+  Test.vcxproj -> D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie4\x64\Debug\Test.exe

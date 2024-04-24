@@ -1,0 +1,38 @@
+﻿  Test.cpp
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(20,11): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(27,11): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(32,11): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(68,31): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(68,35): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(68,39): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(72,54): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(104,54): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(138,54): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(158,31): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(168,54): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(209,33): warning C4838: konwersja z „int” do „GLfloat” wymaga konwersji zawężającej
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(209,33): warning C4244: "inicjowanie": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(209,36): warning C4838: konwersja z „int” do „GLfloat” wymaga konwersji zawężającej
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(209,36): warning C4244: "inicjowanie": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(209,39): warning C4838: konwersja z „int” do „GLfloat” wymaga konwersji zawężającej
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(209,39): warning C4244: "inicjowanie": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(211,31): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(211,35): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(211,39): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(238,29): warning C4305: "+=": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(259,28): warning C4305: "+=": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(279,28): warning C4305: "+=": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(303,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(304,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(305,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(321,32): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(392,19): warning C4305: "+=": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(400,19): warning C4305: "-=": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(407,21): warning C4305: "-=": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(409,17): warning C4552: „>”: Wynik wyrażenia nie jest używany
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(415,21): warning C4305: "+=": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(422,20): warning C4305: "-=": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(424,17): warning C4552: „>”: Wynik wyrażenia nie jest używany
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(430,20): warning C4305: "+=": obcięcie z "double" do "float"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\Test\Test.cpp(432,20): warning C4305: "=": obcięcie z "double" do "float"
+  Test.vcxproj -> D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie6\Zadanie6\x64\Debug\Test.exe
