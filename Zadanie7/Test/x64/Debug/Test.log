@@ -1,15 +1,22 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (Test.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+﻿E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (Test.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
   Zadanie7.cpp
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(72,29): warning C4838: konwersja z „int” do „GLfloat” wymaga konwersji zawężającej
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(72,29): warning C4244: "inicjowanie": konwersja z "int" do "GLfloat", możliwa utrata danych
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(72,32): warning C4838: konwersja z „int” do „GLfloat” wymaga konwersji zawężającej
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(72,32): warning C4244: "inicjowanie": konwersja z "int" do "GLfloat", możliwa utrata danych
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(72,35): warning C4838: konwersja z „int” do „GLfloat” wymaga konwersji zawężającej
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(72,35): warning C4244: "inicjowanie": konwersja z "int" do "GLfloat", możliwa utrata danych
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(74,27): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(74,31): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(74,35): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(85,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(86,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
-C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\Test\Zadanie7.cpp(87,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
-  Test.vcxproj -> C:\Users\studentwftims.LAB\source\repos\MM\Zadanie7\x64\Debug\Zadanie7.exe
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(68,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(123,29): warning C4838: konwersja z „int” do „GLfloat” wymaga konwersji zawężającej
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(123,29): warning C4244: "inicjowanie": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(123,32): warning C4838: konwersja z „int” do „GLfloat” wymaga konwersji zawężającej
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(123,32): warning C4244: "inicjowanie": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(123,35): warning C4838: konwersja z „int” do „GLfloat” wymaga konwersji zawężającej
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(123,35): warning C4244: "inicjowanie": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(125,27): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(125,31): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(125,35): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(135,19): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(136,19): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(137,19): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(202,28): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(202,22): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(203,28): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(203,22): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(204,29): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\Test\Zadanie7.cpp(204,22): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  Test.vcxproj -> D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\Zadanie7\x64\Debug\Zadanie7.exe

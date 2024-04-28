@@ -1,0 +1,30 @@
+C:\Users\studentwftims.LAB\source\repos\MM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\studentwftims.LAB\source\repos\MM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\studentwftims.LAB\source\repos\MM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\studentwftims.LAB\source\repos\MM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\studentwftims.LAB\source\repos\MM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\studentwftims.LAB\source\repos\MM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\studentwftims.LAB\source\repos\MM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\studentwftims.LAB\source\repos\MM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\studentwftims.LAB\source\repos\MM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\studentwftims.LAB\source\repos\MM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\MY GALAXY\STUDY\Studia\GiGK\Sem2\GryKomp\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Maria\studia\GiGK\sem2\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Maria\studia\GiGK\sem2\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Maria\studia\GiGK\sem2\PGK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Maria\studia\GiGK\sem2\PGK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Maria\studia\GiGK\sem2\PGK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Maria\studia\GiGK\sem2\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Maria\studia\GiGK\sem2\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Maria\studia\GiGK\sem2\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Maria\studia\GiGK\sem2\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Maria\studia\GiGK\sem2\PGK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
