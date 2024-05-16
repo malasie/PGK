@@ -9,7 +9,7 @@ namespace Zad2
 {
     public partial class Form1 : Form
     {
-        SimulationBox sb = new SimulationBox(new AlgX(), new AlgY()) { Width = 200, Height = 200 };
+        //SimulationBox sb = new SimulationBox(new AlgX(), new AlgY()) { Width = 200, Height = 200 };
 
         public Form1()
         {
@@ -17,7 +17,7 @@ namespace Zad2
 
             bmp = new Bitmap(Width + 1000, Height + 400);
 
-            Random r = new Random();
+            /*Random r = new Random();
             for (int i = 0; i < 10; i++)
             {
                 sb.addBall(new Ball()
@@ -30,6 +30,7 @@ namespace Zad2
                 });
 
             }
+            */
         }
 
         Bitmap bmp;
