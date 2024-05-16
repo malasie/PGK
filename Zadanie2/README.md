@@ -22,6 +22,6 @@ Po naciśnięciu przycisku "Start" wyświetla nam się poniższy widok:
 ![Biegnij](grafiki/screen2.PNG)
 
 **Lot ptaka:**
+
 Ptak lata od jednego do drugiego końca ekranu. Zwalnia, gdy porusza się w tym samym kierunku co bohater, przyśpiesza, gdy w przeciwnym.
 Ptak lata także w górę i w dół, "odbijając się" od ustalonych granic.
-
