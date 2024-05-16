@@ -6,9 +6,11 @@
 2) Nałożenie tekstury na trójkąt (tak aby obrazek zawierał w sobie trójkąt, należy przeliczyć współrzędne).
 
 W tym zadaniu chodzi o to aby tekstura wyglądała np. tak
+
 ![Tekstura](grafiki/tekstura.png) 
 
 ale efekt nałożenia na trójkąt był następujący
+
 ![Oczekiwany efekt](grafiki/efekt.png)
 
 tzn. nie było niebieskiego (tła), była obwódka, tekst nie był obrócony (chodzi o to aby Państwo dobrze ułożyli wierzchołki)
