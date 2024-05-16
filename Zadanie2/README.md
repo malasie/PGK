@@ -11,7 +11,7 @@ może być "nawinięte na walcu").
 ### Rozwiązanie
 Po naciśnięciu przycisku "Start" wyświetla nam się poniższy widok:
 
-![Start](grafiki/screen1.png) 
+![Start](grafiki/screen1.PNG) 
 
 **Sterowanie strzałkami:**
 - Prawo: Bohater biegnie w prawo; tło przesuwa się w lewo
@@ -19,8 +19,9 @@ Po naciśnięciu przycisku "Start" wyświetla nam się poniższy widok:
 - Góra: Bohater odwraca się tyłem; tło nie przesuwa się
 - Dół: Bohater odwraca się przodem; tło nie przsuwa się
 
-![Biegnij](grafiki/screen2.png)
+![Biegnij](grafiki/screen2.PNG)
 
 **Lot ptaka:**
 Ptak lata od jednego do drugiego końca ekranu. Zwalnia, gdy porusza się w tym samym kierunku co bohater, przyśpiesza, gdy w przeciwnym.
+Ptak lata także w górę i w dół, "odbijając się" od ustalonych granic.
 
